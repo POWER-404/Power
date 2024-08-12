@@ -1,9 +1,7 @@
-`git clone https://github.com/RINKU-CYBER-405/Power`
+git clone https://github.com/RINKU-CYBER-405/Power
 
+cd Power
 
-`cd Power`
+chmod 777 Power
 
-
-`chmod 777 Power`
-
-`./Power`
+./Power
